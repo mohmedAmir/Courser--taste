@@ -1,2 +1,2 @@
-# Courser--taste
+# Courser-taste
 Coursera taste repository
